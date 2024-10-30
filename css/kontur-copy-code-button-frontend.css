@@ -1,0 +1,35 @@
+.kontur-bd-clipboard {
+    display: block;
+    /* position: relative; */
+    float: right;
+}
+.kontur-btn-clipboard {
+    right: 0.1rem;
+    top: 0.1rem;
+    display: inline-block;
+    position: absolute;
+    background: #000;
+    min-width: 90px;
+    width: auto;
+    padding: 8px 10px;
+    text-align: center;
+    font-size: 14px;
+    cursor: pointer;
+    color: #fff;
+    opacity: 1;
+    transition: opacity .15s ease-in-out;
+}
+
+.kontur-btn-clipboard:hover {
+opacity: 0.8;
+    transition: opacity .15s ease-in-out;
+}
+
+.konturPreCodeWrapper {
+    position: relative;
+}
+
+
+div.konturPreCodeWrapper {
+    position: relative;
+}

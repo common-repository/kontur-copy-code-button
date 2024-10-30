@@ -1,0 +1,180 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Kontur Copy Code Button\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-25 21:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Domain: kontur-copy-code-button"
+
+#: admin/kontur-copy-code-button-admin-page.php:99
+msgid " e.g. \"Copied\""
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:94
+msgid " e.g. \"Copy Code\""
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:239
+msgid " Input goes like this for multiple classes: \"class1 class2 class3\""
+msgstr ""
+
+#: kontur-copy-code-button.php:163
+msgid ">> Settings"
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:238
+msgid "Add your custom class(es) to make the button match your theme."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Add your own \"kontur Copy Code Button\" <strong>with your own icon, text, "
+"class, color</strong> and \"pre\" Background. Works as well with the \"WP "
+"Code Block\". The clicked button copies your code into the clipboard."
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:196
+msgid "Button <strong>Background Color</strong>:"
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:206
+msgid "Button <strong>Text Color</strong>:"
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:83
+msgid "Change Your Settings"
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:116
+msgid "Check to use your icon"
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:214
+msgid "Code \"pre\" Block Background"
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:93
+msgid "Copy Button Text:"
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:201
+#: admin/kontur-copy-code-button-admin-page.php:209
+#: admin/kontur-copy-code-button-admin-page.php:217
+msgid "Current color: "
+msgstr ""
+
+#. Author of the plugin
+msgid "Eilert Behrends"
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:235
+msgid "Get Classy"
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:221
+msgid ""
+"Hint: You can change the color of the actual code text within the Gutenberg "
+"block!"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/netzaufsicht/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/kontur-copy-code-button/"
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:114
+msgid "Icon as copy button \"text\""
+msgstr ""
+
+#. Name of the plugin
+msgid "Kontur Copy Code Button"
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:71
+msgid "kontur Copy Code Button"
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:123
+msgid "paste image URL - OR:"
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:244
+msgid "Save added classes"
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:267
+msgid "Save all settings"
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:203
+msgid "Save Background Color"
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:220
+msgid "Save Box Background"
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:103
+msgid "Save button label texts"
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:138
+msgid "Save Icon settings"
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:210
+msgid "Save Text Color"
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:127
+msgid "Select icon from media library"
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:90
+msgid "Set your own Text for the Button"
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:58
+msgid "SETTINGS UPDATED !"
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:194
+msgid "Style it Baby"
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:97
+msgid "Text after copying:"
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:156
+msgid "This is how it would look like right now:"
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:120
+msgid "Uncheck to use the text "
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:107
+msgid "Use your/an icon to copy:"
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:157
+msgid "Yep. That's really an ugly preview - we know ;-)"
+msgstr ""
+
+#: admin/kontur-copy-code-button-admin-page.php:152
+msgid "You got the looks"
+msgstr ""
